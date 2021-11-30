@@ -20,7 +20,6 @@ function showSlide(){
 
 
 //form işlemleri
-
 const inputPassword = document.getElementById('password');
 
 const showPassword = () =>{
